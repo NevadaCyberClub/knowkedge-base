@@ -7,5 +7,5 @@ If you would like to add or change anything do not hesitate to submit a [pull re
 # Things
 
 - [Nevada Cyber Club's website](https://www.nevadacyberclub.com/)
-- [Code of Conduct][CODE_OF_CONDUCT.md]
+- [Code of Conduct](CODE_OF_CONDUCT.md)
 - 
