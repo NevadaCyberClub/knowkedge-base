@@ -2,7 +2,7 @@
 
 👍🎉 First off, thanks for taking the time to contribute! 🎉👍
 
-The following is a set of guidelines for contributing to NCC knowledge base, website or any other public repository, which are hosted in [NCC](https://github.com/NevadaCyberClub)'s GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document or any other in a pull request.
+The following is a set of guidelines for contributing to NCC knowledge base, website or any other repository by NCC, which are hosted in [NCC](https://github.com/NevadaCyberClub)'s GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document or any other in a pull request.
 
 
 #### Table Of Contents
@@ -61,3 +61,16 @@ Good example:
 Line feed here    --->LF
 
 ```
+## How often should I commit?
+"You shouldn't commit based on a time basis, but on a feature basis. Whenever you add a new feature that's worth committing, commit. You added a working method? Commit. You fixed a typo? Commit. You fixed a file's wrong indentation? Commit. There's nothing wrong committing small changes, as soon as the commit is relevant.
+
+What is wrong is committing a huge number of changes, with no relations between each others. It makes it very hard to detect the commit source of a given regression.
+
+Sometimes, I make twenty commits in an hour, and sometimes I commit once a day, depending of the amount of code that was modified.
+
+Making small commits allows you to use very powerful tools like `git-bisect`.
+
+Don't forget the rule n°1 of the committer: never break the trunk. If you need to make several commits that are likely to break the trunk, create a branch instead." - from [here](https://softwareengineering.stackexchange.com/a/74893)
+
+As for not breaking the repos/branches, you can always test locally. Don't be afraid to ask for help. 
+
