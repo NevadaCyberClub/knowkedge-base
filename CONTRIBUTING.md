@@ -36,6 +36,7 @@ If you desire to help maintain, please contact a club officer over discord.
 
 
 ## Stuff 
+NCC's repositories/files are made to be as cross-platform as possible, consistency makes it easier on everyone. 
 
 ### File Structure
 Use best judgement
@@ -43,3 +44,20 @@ Use best judgement
 ### Code
 Avoid hacky/clever code that you will forget what it does in two weeks, i.e. document strange/non-trivial code. Explain if you can.
 
+#### Line Endings
+Uni-style line endings will be used. Every line should end in LF (aka `\n`, line feed), not CRLF (aka `\r\n`, carriage return line feed )
+
+#### File endings
+Add a newline at end of file. If the file is of type `plaintext` (for example markdown, HTML, c++, etc..) then the last line should include a new line (LF/`\n`).
+
+Bad example:
+```
+# Bad example
+No line feed here --->
+```
+Good example:
+```
+# Good example
+Line feed here    --->LF
+
+```
