@@ -34,3 +34,12 @@ Feel free to ping us over discord with any questions regarding contributing.  As
 ### Help Maintain
 If you desire to help maintain, please contact a club officer over discord. 
 
+
+## Stuff 
+
+### File Structure
+Use best judgement
+
+### Code
+Avoid hacky/clever code that you will forget what it does in two weeks, i.e. document strange/non-trivial code. Explain if you can.
+
