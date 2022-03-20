@@ -8,4 +8,4 @@ If you would like to add or change anything (in the knowledge base, website or a
 
 - [Nevada Cyber Club's website](https://www.nevadacyberclub.com/)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
-- [About contributing](#CONTRIBUTING.md)
+- [About contributing](CONTRIBUTING.md)
