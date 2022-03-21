@@ -45,10 +45,10 @@ Use best judgement
 Avoid hacky/clever code that you will forget what it does in two weeks, i.e. document strange/non-trivial code. Explain if you can.
 
 #### Line Endings
-Uni-style line endings will be used. Every line should end in LF (aka `\n`, line feed), not CRLF (aka `\r\n`, carriage return line feed )
+Uni-style line endings will be used. Every line should end in LF (aka `\n`, line feed), not CRLF (aka `\r\n`, carriage return line feed ). You can change your text editor to have this behabiour, consult with your editor's documention. You can also setup `git` to do it with `git config --global core.autocrlf input`.
 
 #### File endings
-Add a newline at end of file. If the file is of type `plaintext` (for example markdown, HTML, c++, etc..) then the last line should include a new line (LF/`\n`).
+Add a newline at end of file. If the file is of type `plaintext` (for example markdown, HTML, c++, etc..) then the last line should include a new line (LF/`\n`). 
 
 Bad example:
 ```
