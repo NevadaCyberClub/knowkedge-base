@@ -152,6 +152,8 @@ More info on SSH setup [here](https://docs.github.com/en/authentication/connecti
 ### Adding a remote location 
 remote -v 
 remote add origin 
+
+note; haveing mutliple remotes is useful ehrn having mutliple server, for example whe you have CICD pipelines where code gets automatically depyed, you push to github and it archives it, yo upush to remote server dev repo and it puts it in production... etc also TODO fix spelling here lol 
 ### Note on some comands 
 If we take a look at the following command we see that we are talking about the server `origin` and local branch `master`:   
 ```
