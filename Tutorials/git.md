@@ -128,20 +128,22 @@ Commits are snapshots of your data, created by taking the difrerences from previ
 ### Git log 
 TODO
 
+Press `q` to exit.
+
 ### Viewing graph
 
 If you would like to view a vidual representation of what your repository looks like then you can use the following 
 #### Locally 
 Use the following command:
 ```
-TODO
+git log --graph --oneline --decorate --all
 ```
-That is kind of hard to remember, lets make a shortcut with the following commnad (do only once): 
+Press `q` to exit. That is kind of hard to remember, lets make a shortcut/alias with the following commnad (do only once): 
 ```
-TODO
+git config --global alias.graph "log --graph --oneline --decorate --all"
 ```
 
-now lets use our short-cut:
+now lets use our alias:
 ```
 git graph
 ```
