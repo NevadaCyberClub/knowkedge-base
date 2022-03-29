@@ -271,3 +271,5 @@ This tutorial give you the brackground knowledge on how git works and what comma
 - add commansd to every section 
 - add other helpfull links
 - make tutorial part 
+- add something explaining local vs global configurations 
+- 
