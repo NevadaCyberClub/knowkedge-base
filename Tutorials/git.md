@@ -264,3 +264,8 @@ This tutorial give you the brackground knowledge on how git works and what comma
 
 
 # Sources 
+
+# TODO 
+- add commansd to every section 
+- add other helpfull links
+- make tutorial part 
