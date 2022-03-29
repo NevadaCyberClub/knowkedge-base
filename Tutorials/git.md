@@ -1,8 +1,8 @@
-# How to use Git
 This is more a knowledge dump more than anything. I have added some tasks to complete at the end if you are for the challenge. Git is very complex and this file does not even scratch the surface. I encourage you to read this more than once as topics rely on later topics and vice versa. It will make more sense as you read it more than once. If I linked an externa page then its more of an advanced topic, so if its your first time using Git then skip it for now and come after you feel more confortable. 
 
 Also pardon my spelling, I had no spelling cheking when I wrote this. If you want to fix somthing, hopefuly after reading this you will be able to submit a pull request to this repmote rpepository. More about contributing [here](https://github.com/NevadaCyberClub/knowkedge-base/blob/master/CONTRIBUTING.md#contributing-procedure).
 
+# Git
 ## About Git
 ### What is Git? 
 "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency." - [git-scm.com](https://git-scm.com/)   
