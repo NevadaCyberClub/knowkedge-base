@@ -24,7 +24,7 @@ By reading this article you should get familiar with the following terminology, 
 |Commit hash| A way to reliably identify each commit using SHA-1 algorithm
 
 
-### How does Git work
+### How does Git work TODO
 Its very clever.
 When you create a change it takes the difference of the current file and the previous version of that file and created the commit. Commit after commit it  this chain/branch in the graph is a branch. Each commit is uniquel
 Git generates a checksum for each change set
