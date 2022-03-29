@@ -123,7 +123,30 @@ So 👉👈 you accidentally stagged a file? well its easy.
 The command for unstaging a file depends on the circumstances the file was added. Worry not, I myself dont know what command to use, BUT git tells you. Just use the `git status` command and it tells you exactly how to do it.
 
 ### About unwanted changes, commits and pushing 
-Commits are snapshots of your data, created by taking the difrerences from previous commits
+Commits are snapshots of your data, created by taking the difrerences from previous commits. They can get tricky to fix them as future things depends on previous commits. Read below TODO link, for more infor abou it.
+
+### Git log 
+TODO
+
+### Viewing graph
+
+If you would like to view a vidual representation of what your repository looks like then you can use the following 
+#### Locally 
+Use the following command:
+```
+TODO
+```
+That is kind of hard to remember, lets make a shortcut with the following commnad (do only once): 
+```
+TODO
+```
+
+now lets use our short-cut:
+```
+git graph
+```
+
+#### Remotelly 
 
 ## Remote repositories
 In the initial part of this tutorial you worked locally. In this section you will be working with remote repositories. Essentially, it is copying/syncing your local repository with a remote server, This allows multiple people to work on the code at once. Merge conflicts are managed locally. The default name for your first remote server ina repository is `origin`. Your local repository can point to multiple remote locations, for example, one can push code to a backup code server, a production server, a developemnt server ...etc.
