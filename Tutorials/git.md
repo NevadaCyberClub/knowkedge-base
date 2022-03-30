@@ -503,3 +503,5 @@ Documentation should be your friend here. They have examples most of the time.
 # TODO 
 - add something explaining local vs global configurations 
 - add bout git ignore
+- add missing resources 
+- 
