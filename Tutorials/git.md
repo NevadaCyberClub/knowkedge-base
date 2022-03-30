@@ -496,12 +496,13 @@ This tutorial give you the brackground knowledge on how git works and what comma
 Documentation should be your friend here. They have examples most of the time.    
 - [Complete list of all commands](https://git-scm.com/docs)
 - [Branching - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
-- 
+- [Git Slides](https://docs.google.com/presentation/d/1Pqc_e4V61DPMgLVWSBzofUuT_mwkiP4Ln2yMYG8xNGY/edit#slide=id.g55de37a37d_0_83)
+- [Another workshop](https://imagej.net/develop/git/workshop)
+
 # Sources 
 - [@nachobacanful](https://gitlab.com/ignaciochg)'s 🧠
 
 # TODO 
 - add something explaining local vs global configurations 
 - add bout git ignore
-- add missing resources 
-- 
+- fix markdown for link on merge 
