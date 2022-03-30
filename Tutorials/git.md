@@ -241,7 +241,7 @@ The fist line is the title of the commit, all other lines are the detailed dresc
 
 The title should be short and sweet while still showing what was done. Here are a few examples:
 
--`Fix bug #53`
+- `Fix bug #53`
 - add feature xyz
 - delete file, deprecated
 - XYZ replaced with ABC
@@ -407,7 +407,7 @@ The easient way yo set this tracking is on the first push for that particular br
 NOTE: pushing a branch does not automatically push all other branches, only the current one. So if you want to push another one di it manyally, if you want to push all use the `--all` flag (like so `git push <REMOTE> --all`, where REMOTE is your remote). 
 
 ### Merging
-Merging means combining two branches into one, for example you have `master` and `dev` which has a new feature you are ready to integrate. You would merge `dev` into `master`. After this `master` and `dev` becomes one.
+Merging means combining two branches into one, for example you have `master` and `dev` which has a new feature you are ready to integrate. You would merge `dev` into `master`. After this `master` and `dev` becomes one. Note, the arrows on the picture point the other direction as they are showing a graph, but historically its the other way around.
 
 ![git merge graph](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuNpUR0C_2jLlM3JmedHUXDmkoZABkWQI4q_tZR4kn2W1JQjvGbVMjR6qTMJLNnNRBJf8&usqp=CAU)   
 
