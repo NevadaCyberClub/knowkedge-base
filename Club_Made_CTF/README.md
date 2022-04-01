@@ -28,3 +28,7 @@ your challenge. If you don't know how to do this, feel free to read the git guid
 ## Need help?
 
 Feel free to ask for help on the Discord, but try not to post spoilers there!
+
+## Other
+
+A link to the old ctf can be found [here.](https://github.com/NevadaCyberClub/CTF)
