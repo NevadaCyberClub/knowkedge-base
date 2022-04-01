@@ -16,11 +16,14 @@ and make a challenge! If you wish to make a challenge, there are a few requireme
 
 1. A clear description of the goal
 2. Title of the directory following the format: `{Name of Challenge} {Difficulty}`
-3. A written solution guide in a text file with the same name as the challenge, 
+3. A written solution guide in a markdown file with the same name as the challenge, 
 feel free to go indepth as you wish, but try to refrain from just putting the answer 
 down with no explanation.
 4. Who made the challenge (Usually your name, but if from a 3rd party, their name)
-5. if there is a flag, make the format `UNRCyber{Insert_Text_Here}`
+5. If there is a flag, make the format `UNRCyber{Insert_Text_Here}`
+6. Make sure the challenge itself is also a markdown file.
+7. if there is a file for the challenge, put it in a directory instead of a markdown 
+file with the markdown file and the file for the challenge.
 
 Once you meet those, you can feel free to fork the repo and make a pull request with 
 your challenge. If you don't know how to do this, feel free to read the git guide [here.](https://github.com/NevadaCyberClub/knowkedge-base/blob/master/Tutorials/git.md)
