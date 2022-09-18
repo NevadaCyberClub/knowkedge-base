@@ -5,3 +5,5 @@ publically available tools. This can be trying to find the location of a photo
 to seeing what vulnerability exists to exploit a service.
 A list of really great tools can be found here: [Awesome OSINT](https://github.com/jivoi/awesome-osint). 
 But at the end of the day, searching up what tools can be used can be helpful.
+
+REMEMBER: Unless the question is not asking for a flag, the flag format is UNRCyber{...}
