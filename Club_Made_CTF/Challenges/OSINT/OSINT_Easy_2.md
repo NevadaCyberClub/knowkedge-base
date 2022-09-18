@@ -1,1 +1,1 @@
-For this OSINT challenge I am not sure what to do yet, but I have the flag UNRCyber{Publically_Hidden_History}. I will probably update this with whatever later.
+This challenge is unfortunately *totally* impossible as even though the flag used to be in this exact file, I deleted all traces of it! It is totally impossible to know what was in this file on this github, therefore, no flag for you :).
